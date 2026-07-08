@@ -24,8 +24,7 @@ This deletes the injective networks. The result is directly demonstrated in **`o
 Run **`check_more_3_steady_states.mw`** in Maple (requires `odesystem.xls`).
 
 This checks whether the networks admit more than three positive steady states. The results are directly demonstrated in:
-- `results_of_check_more_than_3--1.xlsx`
-- `results_of_check_more_than_3--2.xlsx`
+- `results_morethan3.xlsx`
 
 ### Step 3: Check for Two Positive Steady States
 
